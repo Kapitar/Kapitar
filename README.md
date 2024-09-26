@@ -10,8 +10,6 @@ full-stack developer, competitive programmer, and math enjoyer
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - Participant of Russian Olympiad in Informatics
-- Bronze medalist of Russian Team Olympiad
-- and much more olympiads...
 - Codeforces rounds problemsetter ([Codeforces Round #892](https://codeforces.com/contest/1859), [Codeforces Round #932](https://codeforces.com/contest/1935))
 
 ## 📇 Languages & Tools
