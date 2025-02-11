@@ -9,7 +9,7 @@ backend developer, competitive programmer, and math enjoyer
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- Participant of Russian Olympiad in Informatics
+- USACO Platinum
 - Codeforces rounds problemsetter ([Codeforces Round #892](https://codeforces.com/contest/1859), [Codeforces Round #932](https://codeforces.com/contest/1935))
 - Codeforces Candidate Master [profile](https://codeforces.com/profile/i_love_penguins)
 
