@@ -11,6 +11,7 @@ backend developer, competitive programmer, and math enjoyer
 
 - Participant of Russian Olympiad in Informatics
 - Codeforces rounds problemsetter ([Codeforces Round #892](https://codeforces.com/contest/1859), [Codeforces Round #932](https://codeforces.com/contest/1935))
+- Codeforces Candidate Master [profile](https://codeforces.com/profile/i_love_penguins)
 
 ## 📇 Languages & Tools
 
@@ -39,8 +40,8 @@ backend developer, competitive programmer, and math enjoyer
 
 
 ## 🌟 My projects
-- Backend Developer of game Clonium on platform VK Mini Apps with >700k downloads.
-- Backend Developer of game Guesser on platform VK Mini Apps, a bronze-medalist app in the Saint-Petersburg X VK hackathon.
+- Backend Developer of game Clonium with >700k downloads.
+- Backend Developer of game Guesser, a bronze-medalist app in the Saint-Petersburg X VK hackathon.
 
 ## 📫 Contact
 - For any inquiries please contact [my email](mailto:kkapitar@ya.ru) or PM in [Telegram](https://t.me/kapitar)
