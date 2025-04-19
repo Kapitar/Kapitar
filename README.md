@@ -38,10 +38,5 @@ backend developer, competitive programmer, and math enjoyer
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-
-## 🌟 My projects
-- Backend Developer of game Clonium with >700k downloads.
-- Backend Developer of game Guesser, a bronze-medalist app in the Saint-Petersburg X VK hackathon.
-
 ## 📫 Contact
-- For any inquiries please contact [my email](mailto:kkapitar@ya.ru) or PM in [Telegram](https://t.me/kapitar)
+- For any inquiries please contact [my email](mailto:artem.kim0712@gmail.com)
