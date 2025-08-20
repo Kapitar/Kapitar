@@ -1,5 +1,3 @@
-<img width="100%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a88779db-8448-4939-8780-b80484b79a89/dgihzp9-4af43a35-5ab4-40ed-b1d2-73f5e7c8a44f.png/v1/fill/w_1192,h_670,q_70,strp/frieren_by_endorfnn_dgihzp9-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTg4Nzc5ZGItODQ0OC00OTM5LTg3ODAtYjgwNDg0Yjc5YTg5XC9kZ2loenA5LTRhZjQzYTM1LTVhYjQtNDBlZC1iMWQyLTczZjVlN2M4YTQ0Zi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.nTW3qImlnCDHv5-o2VSnZEqNa3ciZ0O3AhYKGKu5iDo" width="40%" height="40%" />
-
 ## Artem Kim
 backend developer, competitive programmer, and math enjoyer
 
