@@ -1,7 +1,7 @@
 ## Artem Kim
-backend developer, competitive programmer, and math enjoyer
+backend developer & competitive programmer
 
-## 💖 Competitive programming
+## Competitive programming
 
 ### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -11,7 +11,7 @@ backend developer, competitive programmer, and math enjoyer
 - Codeforces rounds problemsetter ([Codeforces Round #892](https://codeforces.com/contest/1859), [Codeforces Round #932](https://codeforces.com/contest/1935))
 - Codeforces Candidate Master [profile](https://codeforces.com/profile/i_love_penguins)
 
-## 📇 Languages & Tools
+## Languages & Tools
 
 ### Frontend Technologies
 ![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
@@ -36,5 +36,5 @@ backend developer, competitive programmer, and math enjoyer
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📫 Contact
+## Contact
 - For any inquiries please contact [my email](mailto:me@artem-kim.com)
